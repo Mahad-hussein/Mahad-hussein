@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahad!
 
-I am a Full Stack Web Developer student at Social Hackers Academy, originally from Somalia and currently residing in Greece. Passionate about web development and always eager to learn new technologies and tools to improve my skills.
+I am a Full Stack Web Developer student at Social Hackers Academy, originally from Somalia and currently residing in GERMANY. Passionate about web development and always eager to learn new technologies and tools to improve my skills.
 
 - 🌍 From: Somalia
 - 🌍 Currently Living: Germany
